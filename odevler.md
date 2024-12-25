@@ -63,4 +63,4 @@
 
 # PROJE 3 - [7,5,1,8,3,6,0,9,4,2]  Binary Search Tree
 
-![Binary Search Tree](Algoritma_Odev_Proje_1-2-3/images/binary_search_tree.png](https://raw.githubusercontent.com/handeerkovan/Algoritma_Odev_Proje_1-2-3/refs/heads/main/images/binary_search_tree.png)
+![Binary Search Tree](https://github.com/handeerkovan/Algoritma_Odev_Proje_1-2-3/blob/main/images/binary_search_tree.png?raw=true)
