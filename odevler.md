@@ -21,7 +21,7 @@
 ### - Average case kapsamına girer. Çünkü 18 sayısı ortadaki elemandır.
 ### +
 
-# Soru 2 - [7,3,5,8,2,9,4,15,6] Selection Sort
+# Soru 2 - [7,3,5,8,2,9,4,15,6] Selection Sort (İlk 4 basamak)
 
 ### 1. Öncelikle ilk elemanı minimum değer olarak referans alıp daha küçük değer var mı diye liste tek tek taranır. Bulunan en küçük değere sahip eleman ilk eleman ile yer değiştirir.
 `[7,3,5,8,2,9,4,15,6]`  ---->  `[2,3,5,8,7,9,4,15,6]`
